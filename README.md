@@ -57,16 +57,9 @@ aihealthchains-blockchain-assessment/
    npm install
    ```
 
-3. **Generate mock data:**
+3. **Install frontend dependencies:**
    ```bash
-   cd ../data-generator
-   node generate-data.js
-   ```
-   This will generate `data.js` files in the `server/src/data/` directory.
-
-4. **Install frontend dependencies:**
-   ```bash
-   cd ../client
+   cd client
    npm install
    ```
 
